@@ -1,0 +1,75 @@
+/***************************
+    This is the file od dark style of this theme
+***************************/
+
+/*div menu*/
+.menu {
+    background-color:#fff;
+    -webkit-box-shadow:0px 0px 6px #ccc;
+    -moz-box-shadow:0px 0px 6px #ccc;
+    -ms-box-shadow:0px 0px 6px #ccc;
+    -o-box-shadow:0px 0px 6px #ccc;
+    box-shadow:0px 0px 6px #ccc;
+}
+.menu .menu-list li a i {background-color:#fff; color:#000}
+.menu .menu-list li a span {
+    background-color:#fff;
+    color:#000;
+    -webkit-box-shadow:0px 0px 6px #ccc;
+    -moz-box-shadow:0px 0px 6px #ccc;
+    -ms-box-shadow:0px 0px 6px #ccc;
+    -o-box-shadow:0px 0px 6px #ccc;
+    box-shadow:0px 0px 6px #ccc;
+}
+
+/*section about*/
+.about {background-color:#fff}
+.about .about-bio {color:#555}
+.about .details li span {color:#333}
+
+/*section skills*/
+.skills {background-color:#fafafa}
+
+/*section services*/
+.services {background-color:#fff}
+.services .serv-box p {color:#777}
+
+/*section portfolio*/
+.portfolio {background-color:#fafafa}
+
+/*section blogs*/
+.blogs {background-color:#fff}
+.blogs .blog-box {box-shadow: -1px -1px 10px #ddd}
+.blogs .blog-box h3 {color:#333}
+.blogs .blog-box p {color:#676666}
+.blogs .blog-box a {box-shadow:0 0 5px #ddd}
+
+/*div count*/
+.count {background-color:#fafafa}
+.count h3 {color:#777}
+
+/*section resume*/
+.resume {background-color:#fff}
+.resume .resume-box .content p.info {color:#333}
+
+/*section previews*/
+.previews {background-color:#fafafa}
+.previews .item {background-color:#fff}
+.previews .item .item-p {color:#676666}
+
+/*div supporters*/
+.supporters {background-color:#fff}
+
+/*sectoin contacts*/
+.contacts {background-color:#fafafa}
+.contacts .contact-box {background-color:#fff}
+.contacts .contact-box .contact-info p.bio {color:#999}
+.contacts form input , .contacts form textarea {background-color:#fff}
+
+/*footer*/
+footer {background-color:#333}
+
+/*div loading*/
+.loading {background-color:#fff}
+.loading .center-element .circle {border:2px solid #000}
+.loading .center-element .circle span {background-color:#000}
